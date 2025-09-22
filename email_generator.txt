@@ -1,0 +1,2 @@
+Write a professional email based on this situation:
+{text}
